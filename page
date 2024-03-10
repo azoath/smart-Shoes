@@ -1,0 +1,365 @@
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"
+      ><img class=".logo" src="./logo.jpg" style="height: 50px" width="100px"
+    /></a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarNavDropdown"
+      aria-controls="navbarNavDropdown"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="index.html"
+            >Home</a
+          >
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Wellness</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About us</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="main">
+  <link
+    href="https://fonts.googleapis.com/css?family=Roboto:100"
+    rel="stylesheet"
+  />
+  <p id="head1" class="header">
+    Experience the next evolution in footwear technology – smart shoes that
+    empower your fitness journey like never before
+  </p>
+  <button style="place-content: 50%">Register/Login</button>
+  <div class="light x1"></div>
+  <div class="light x2"></div>
+  <div class="light x3"></div>
+  <div class="light x4"></div>
+  <div class="light x5"></div>
+  <div class="light x6"></div>
+  <div class="light x7"></div>
+  <div class="light x8"></div>
+  <div class="light x9"></div>
+</div>
+<h1 style="text-align: center">Our Goals</h1>
+<div class="cards">
+  <div class="card" style="width: 18rem" style="height: 30rem">
+    <img src="./pic1.jpg" class="card-img-top" alt="..." />
+    <div class="card-body">
+      <p class="card-text">
+        <b>Health Monitoring</b><br />
+        Smart shoes include health monitoring capabilities.By monitoring vital
+        signs and physiological indicators, these shoes can help users maintain
+        optimal health and well-being.
+      </p>
+    </div>
+  </div>
+  <div class="card" style="width: 20rem" style="height: 20rem">
+    <img src="./pic2.jpg" class="card-img-top" alt="..." />
+    <div class="card-body">
+      <p class="card-text">
+        <b>Comfort and Support</b><br />Smart shoes prioritize comfort and
+        support by incorporating features such as cushioning, arch support, and
+        customizable fit options.
+      </p>
+    </div>
+  </div>
+  <div class="card" style="width: 18rem" style="height: 35srem">
+    <img src="./pic3.jpg" class="card-img-top" alt="..." />
+    <div class="card-body">
+      <p class="card-text">
+        <b>Performance Optimization</b><br />Smart shoes aim to optimize
+        athletic performance by providing real-time feedback on metrics such as
+        pace, distance, cadence, and more.This data helps users track their
+        progress, set goals, and make informed decisions to improve their
+        performance.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="productFeature">
+  <h1 style="text-align: center">Features</h1>
+  <div class="topic">
+    <div
+      class="d-flex flex-column flex-md-row p-4 gap-4 py-md-5 align-items-center justify-content-center"
+    >
+      <div class="list-group">
+        <a
+          href="#"
+          class="list-group-item list-group-item-action d-flex gap-3 py-3"
+          aria-current="true"
+        >
+          <img
+            src="logo.jpg"
+            alt="twbs"
+            width="32"
+            height="32"
+            class="rounded-circle flex-shrink-0"
+          />
+          <div class="d-flex gap-2 w-100 justify-content-between">
+            <div>
+              <h6 class="mb-0">Fitness Tracking Sensors</h6>
+              <p class="mb-0 opacity-75">
+                Smart shoes often come equipped with various sensors, such as
+                accelerometers, gyroscopes, and pressure sensors, to track
+                movement, steps, distance, and calories burned during physical
+                activity.
+              </p>
+            </div>
+            <small class="opacity-50 text-nowrap"></small>
+          </div>
+        </a>
+        <a
+          href="#"
+          class="list-group-item list-group-item-action d-flex gap-3 py-3"
+          aria-current="true"
+        >
+          <img
+            src="logo.jpg"
+            alt="twbs"
+            width="32"
+            height="32"
+            class="rounded-circle flex-shrink-0"
+          />
+          <div class="d-flex gap-2 w-100 justify-content-between">
+            <div>
+              <h6 class="mb-0">Real-Time Data Monitoring</h6>
+              <p class="mb-0 opacity-75">
+                They provide real-time feedback on performance metrics,
+                including pace, speed, cadence, and stride length, allowing
+                users to monitor their progress and adjust their workouts
+                accordingly.
+              </p>
+            </div>
+            <small class="opacity-50 text-nowrap"></small>
+          </div>
+        </a>
+
+        <a
+          href="#"
+          class="list-group-item list-group-item-action d-flex gap-3 py-3"
+          aria-current="true"
+        >
+          <img
+            src="logo.jpg"
+            alt="twbs"
+            width="32"
+            height="32"
+            class="rounded-circle flex-shrink-0"
+          />
+          <div class="d-flex gap-2 w-100 justify-content-between">
+            <div>
+              <h6 class="mb-0">Battery Life and Charging</h6>
+              <p class="mb-0 opacity-75">
+                They are equipped with rechargeable batteries with long-lasting
+                battery life, ensuring continuous usage during workouts, and
+                convenient charging options, such as USB charging ports or
+                wireless charging pads.
+              </p>
+            </div>
+            <small class="opacity-50 text-nowrap"></small>
+          </div>
+        </a>
+        <a
+          href="#"
+          class="list-group-item list-group-item-action d-flex gap-3 py-3"
+          aria-current="true"
+        >
+          <img
+            src="logo.jpg"
+            alt="twbs"
+            width="32"
+            height="32"
+            class="rounded-circle flex-shrink-0"
+          />
+          <div class="d-flex gap-2 w-100 justify-content-between">
+            <div>
+              <h6 class="mb-0">Durability and Weather Resistance</h6>
+              <p class="mb-0 opacity-75">
+                Smart shoes are typically designed to withstand the rigors of
+                outdoor activities, with features such as water resistance,
+                abrasion-resistant materials, and durable outsoles for traction
+                on various surfaces.
+              </p>
+            </div>
+            <small class="opacity-50 text-nowrap"></small>
+          </div>
+        </a>
+        <a
+          href="#"
+          class="list-group-item list-group-item-action d-flex gap-3 py-3"
+          aria-current="true"
+        >
+          <img
+            src="logo.jpg"
+            alt="twbs"
+            width="32"
+            height="32"
+            class="rounded-circle flex-shrink-0"
+          />
+          <div class="d-flex gap-2 w-100 justify-content-between">
+            <div>
+              <h6 class="mb-0">Connectivity Options</h6>
+              <p class="mb-0 opacity-75">
+                They may feature Bluetooth or Wi-Fi connectivity to sync data
+                with smartphone apps or fitness trackers, enabling users to view
+                and analyze their activity stats, set goals, and share
+                achievements with friends or trainers.
+              </p>
+            </div>
+            <small class="opacity-50 text-nowrap"></small>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <footer
+    class="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 my-5 border-top"
+  >
+    <div class="col mb-3">
+      <a
+        href="/"
+        class="d-flex align-items-center mb-3 link-body-emphasis text-decoration-none"
+      >
+        <svg class="bi me-2" width="40" height="32">
+          <use src="logo.jpg"></use>
+        </svg>
+      </a>
+      <p class="text-body-secondary">© 2024</p>
+    </div>
+
+    <div class="col mb-3"></div>
+
+    <div class="col mb-3">
+      <h5>Section</h5>
+      <ul class="nav flex-column">
+        <li class="nav-item mb-2">
+          <a href="#" class="nav-link p-0 text-body-secondary">Home</a>
+        </li>
+        <li class="nav-item mb-2">
+          <a href="#" class="nav-link p-0 text-body-secondary">Features</a>
+        </li>
+        <li class="nav-item mb-2">
+          <a href="#" class="nav-link p-0 text-body-secondary">well-being</a>
+        </li>
+        <li class="nav-item mb-2">
+          <a href="#" class="nav-link p-0 text-body-secondary">Register</a>
+        </li>
+        <li class="nav-item mb-2">
+          <a href="#" class="nav-link p-0 text-body-secondary">About</a>
+        </li>
+      </ul>
+    </div>
+  </footer>
+</div>
+
+<footer class="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 my-5 border-top">
+  <div class="col mb-3">
+    <a
+      href="/"
+      class="d-flex align-items-center mb-3 link-body-emphasis text-decoration-none"
+    >
+      <svg class="bi me-2" width="40" height="32">
+        <use xlink:href="#bootstrap"></use>
+      </svg>
+    </a>
+    <p class="text-body-secondary">© 2024</p>
+  </div>
+
+  <div class="col mb-3"></div>
+
+  <div class="col mb-3">
+    <h5>Section</h5>
+    <ul class="nav flex-column">
+      <li class="nav-item mb-2">
+        <a href="#" class="nav-link p-0 text-body-secondary">Home</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a href="#" class="nav-link p-0 text-body-secondary">Features</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a href="#" class="nav-link p-0 text-body-secondary">Pricing</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a href="#" class="nav-link p-0 text-body-secondary">FAQs</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a href="#" class="nav-link p-0 text-body-secondary">About</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="col mb-3">
+    <h5>Section</h5>
+    <ul class="nav flex-column">
+      <li class="nav-item mb-2">
+        <a href="#" class="nav-link p-0 text-body-secondary">Home</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a href="#" class="nav-link p-0 text-body-secondary">Features</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a href="#" class="nav-link p-0 text-body-secondary">Pricing</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a href="#" class="nav-link p-0 text-body-secondary">FAQs</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a href="#" class="nav-link p-0 text-body-secondary">About</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="col mb-3">
+    <h5>Section</h5>
+    <ul class="nav flex-column">
+      <li class="nav-item mb-2">
+        <a href="#" class="nav-link p-0 text-body-secondary">Home</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a href="#" class="nav-link p-0 text-body-secondary">Features</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a href="#" class="nav-link p-0 text-body-secondary">Pricing</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a href="#" class="nav-link p-0 text-body-secondary">FAQs</a>
+      </li>
+      <li class="nav-item mb-2">
+        <a href="#" class="nav-link p-0 text-body-secondary">About</a>
+      </li>
+    </ul>
+  </div>
+</footer>
+
+<div class="col-md-5 offset-md-1 mb-3">
+  <form>
+    <h5>Subscribe to our newsletter</h5>
+    <p>Monthly digest of what's new and exciting from us.</p>
+    <div class="d-flex flex-column flex-sm-row w-100 gap-2">
+      <label for="newsletter1" class="visually-hidden">Email address</label>
+      <input
+        id="newsletter1"
+        type="text"
+        class="form-control"
+        placeholder="Email address"
+      />
+      <button class="btn btn-primary" type="button">Subscribe</button>
+    </div>
+  </form>
+</div>
